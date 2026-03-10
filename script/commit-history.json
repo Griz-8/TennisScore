@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3079ebd2a37f609ad56d81b771c1d338e2a6c9f1",
     "author": "Grizzz88",
     "commit": {
       "date": "2026-03-10T05:02:46.000Z",
       "message": "feat: mostrar 15-15 cuando ambos jugadores anotan",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject-logfiles/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject-logfiles/commit/3079ebd2a37f609ad56d81b771c1d338e2a6c9f1"
     },
     "stats": {
       "total": 8,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Grizzz88",
+    "commit": {
+      "date": "2026-03-10T05:17:40.000Z",
+      "message": "feat: mostrar 30-15 cuando jugador 1 llega a 30",
+      "url": "https://github.com/Griz-8/TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 17,
+      "additions": 13,
+      "deletions": 4,
+      "date": "2026-03-10"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }

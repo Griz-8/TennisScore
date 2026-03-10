@@ -114,9 +114,39 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3079ebd2a37f609ad56d81b771c1d338e2a6c9f1",
     "commitName": "feat: mostrar 15-15 cuando ambos jugadores anotan",
     "commitTimestamp": 1773118967391,
     "testId": 3
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1773119655303,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1773119747347,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1773119791390,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: mostrar 30-15 cuando jugador 1 llega a 30",
+    "commitTimestamp": 1773119861787,
+    "testId": 4
   }
 ]
