@@ -14,9 +14,12 @@ function marcador(p1, p2) {
   }
 
   if (p1 === 2 && p2 === 1) {
-    return "30-15";
+    return '30-15';
   }
 
+    if (p1 === 1 && p2 === 2) {
+    return '15-30';
+  }
 }
 
 export default marcador;

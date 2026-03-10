@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "c6d0395ea65a8a85ad772ce5649e3cde102e7bd9",
     "author": "Grizzz88",
     "commit": {
       "date": "2026-03-10T05:17:40.000Z",
       "message": "feat: mostrar 30-15 cuando jugador 1 llega a 30",
-      "url": "https://github.com/Griz-8/TennisScore/commit/HEAD"
+      "url": "https://github.com/Griz-8/TennisScore/commit/c6d0395ea65a8a85ad772ce5649e3cde102e7bd9"
     },
     "stats": {
       "total": 17,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Grizzz88",
+    "commit": {
+      "date": "2026-03-10T05:22:13.000Z",
+      "message": "feat: mostrar 15-30 cuando jugador 2 llega a 30",
+      "url": "https://github.com/Griz-8/TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 10,
+      "deletions": 3,
+      "date": "2026-03-10"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

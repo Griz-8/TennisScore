@@ -16,6 +16,10 @@ test('el otro jugador anota', () => {
   expect(marcador(1,1)).toBe('15-15');
 });
 
-test("jugador 1 llega a 30", () => {
-  expect(marcador(2,1)).toBe("30-15");
+test('jugador 1 llega a 30', () => {
+  expect(marcador(2,1)).toBe('30-15');
+});
+
+test('jugador 2 llega a 30', () => {
+  expect(marcador(1,2)).toBe('15-30');
 });

@@ -144,9 +144,31 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c6d0395ea65a8a85ad772ce5649e3cde102e7bd9",
     "commitName": "feat: mostrar 30-15 cuando jugador 1 llega a 30",
     "commitTimestamp": 1773119861787,
     "testId": 4
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1773120030756,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1773120068306,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: mostrar 15-30 cuando jugador 2 llega a 30",
+    "commitTimestamp": 1773120134714,
+    "testId": 5
   }
 ]
