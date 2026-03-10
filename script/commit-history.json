@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "8b9c7f54bbf6995486957e957fc901897478ff38",
     "author": "Grizzz88",
     "commit": {
       "date": "2026-03-10T04:43:08.000Z",
       "message": "test: iniciar marcador de tennis con Love-Love",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject-logfiles/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject-logfiles/commit/8b9c7f54bbf6995486957e957fc901897478ff38"
     },
     "stats": {
       "total": 105,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Grizzz88",
+    "commit": {
+      "date": "2026-03-10T04:47:53.000Z",
+      "message": "feat: mostrar 15-Love cuando jugador 1 anota",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject-logfiles/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
+      "date": "2026-03-10"
+    },
+    "coverage": 100,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }
