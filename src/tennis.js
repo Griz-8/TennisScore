@@ -27,6 +27,10 @@ function marcador(p1, p2) {
    if (p1 === 0 && p2 === 2) {
     return 'Love-30';
   }
+
+   if (p1 === 3 && p2 === 2) {
+    return '40-30';
+  }
 }
 
 export default marcador;

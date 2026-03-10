@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "72999dc52a959eac9cde3e4ebcfaa22b60860c55",
     "author": "Grizzz88",
     "commit": {
       "date": "2026-03-10T05:30:59.000Z",
       "message": "jugador 2 anota por segunda vez sin que anote jugador 1",
-      "url": "https://github.com/Griz-8/TennisScore/commit/HEAD"
+      "url": "https://github.com/Griz-8/TennisScore/commit/72999dc52a959eac9cde3e4ebcfaa22b60860c55"
     },
     "stats": {
       "total": 8,
@@ -148,6 +148,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Grizzz88",
+    "commit": {
+      "date": "2026-03-10T07:50:40.000Z",
+      "message": "jugador 1 anota por 3ra vez",
+      "url": "https://github.com/Griz-8/TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2026-03-10"
+    },
+    "coverage": 100,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }

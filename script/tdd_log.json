@@ -210,9 +210,63 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "72999dc52a959eac9cde3e4ebcfaa22b60860c55",
     "commitName": "jugador 2 anota por segunda vez sin que anote jugador 1",
     "commitTimestamp": 1773120660655,
     "testId": 7
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1773128686248,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1773128698884,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1773128789542,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1773128828197,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1773128901247,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1773128945065,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "jugador 1 anota por 3ra vez",
+    "commitTimestamp": 1773129041873,
+    "testId": 8
   }
 ]
