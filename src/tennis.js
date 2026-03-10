@@ -38,6 +38,9 @@ function marcador(p1, p2) {
 
   if (p1 === 3 && p2 === 3) {
     return 'Deuce';}
+
+if (p1 === p2 + 1 && p2 >= 3) {
+    return 'Advantage Player 1';}
 }
 
 export default marcador;
