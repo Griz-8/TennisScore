@@ -11,3 +11,7 @@ test('jugador 1 anota', () => {
 test("jugador 2 anota primero", () => {
   expect(marcador(0,1)).toBe("Love-15");
 });
+
+test("jugador 2 anota", () => {
+  expect(marcador(1,1)).toBe("15-15");
+});
