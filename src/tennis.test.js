@@ -58,5 +58,5 @@ test('Jugador 2 tiene ventaja desde Deuce', () => {
 });
 
 test('Jugador 2 gana el juego desde ventaja', () => {
-  expect(marcador(5,3)).toBe('Game for Player ');
+  expect(marcador(3,5)).toBe('Game for Player 2');
 });

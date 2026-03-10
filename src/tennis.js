@@ -47,8 +47,9 @@ if (p2 === p1 + 1 && p1 >= 3) {
 
 if (p1 >= 4 && p1 >= p2 + 2) {
     return 'Game for Player 1';}
-
+    
 if (p2 >= 4 && p2 >= p1 + 2) {
     return 'Game for Player 2';}
 }
+
 export default marcador;

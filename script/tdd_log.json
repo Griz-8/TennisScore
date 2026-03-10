@@ -486,9 +486,39 @@
     "testId": 13
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e822130c9996745ed047a719c212250d3ec41c36",
     "commitName": "Ventaja 2",
     "commitTimestamp": 1773130985814,
     "testId": 13
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 1,
+    "numTotalTests": 15,
+    "timestamp": 1773131042305,
+    "success": false,
+    "testId": 14
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 1,
+    "numTotalTests": 15,
+    "timestamp": 1773131103112,
+    "success": false,
+    "testId": 14
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 0,
+    "numTotalTests": 15,
+    "timestamp": 1773131138868,
+    "success": true,
+    "testId": 14
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Gana 2",
+    "commitTimestamp": 1773131161515,
+    "testId": 14
   }
 ]

@@ -247,12 +247,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e822130c9996745ed047a719c212250d3ec41c36",
     "author": "Grizzz88",
     "commit": {
       "date": "2026-03-10T08:23:04.000Z",
       "message": "Ventaja 2",
-      "url": "https://github.com/Griz-8/TennisScore/commit/HEAD"
+      "url": "https://github.com/Griz-8/TennisScore/commit/e822130c9996745ed047a719c212250d3ec41c36"
     },
     "stats": {
       "total": 15,
@@ -264,5 +264,24 @@
     "test_count": 15,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Grizzz88",
+    "commit": {
+      "date": "2026-03-10T08:26:00.000Z",
+      "message": "Gana 2",
+      "url": "https://github.com/Griz-8/TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 3,
+      "deletions": 2,
+      "date": "2026-03-10"
+    },
+    "coverage": 100,
+    "test_count": 15,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
