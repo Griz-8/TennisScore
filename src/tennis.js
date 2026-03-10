@@ -41,6 +41,8 @@ function marcador(p1, p2) {
 
 if (p1 === p2 + 1 && p2 >= 3) {
     return 'Advantage Player 1';}
-}
 
+if (p1 >= 4 && p1 >= p2 + 2) {
+    return 'Game for Player 1';}
+}
 export default marcador;

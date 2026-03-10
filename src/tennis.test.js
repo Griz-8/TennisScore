@@ -47,3 +47,7 @@ test('Empate 40-40 → Deuce', () => {
 test('Jugador 1 tiene ventaja desde Deuce', () => {
   expect(marcador(4,3)).toBe('Advantage Player 1');
 });
+
+test('Jugador 1 gana el juego desde ventaja', () => {
+  expect(marcador(5,3)).toBe('Game for Player 1');
+});
