@@ -188,9 +188,31 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c2b643dc5540a6d9b3138603265376319ee47280",
     "commitName": "jugador 1 anota por segunda vez sin que anote jugador 2",
     "commitTimestamp": 1773120504687,
     "testId": 6
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1773120565529,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1773120615961,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "jugador 2 anota por segunda vez sin que anote jugador 1",
+    "commitTimestamp": 1773120660655,
+    "testId": 7
   }
 ]

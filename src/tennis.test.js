@@ -27,3 +27,7 @@ test('jugador 2 llega a 30', () => {
 test("jugador 1 llega a 30 sin que jugador 2 anote", () => {
   expect(marcador(2,0)).toBe("30-Love");
 });
+
+test("jugador 2 llega a 30 sin que jugador 1 anote", () => {
+  expect(marcador(0,2)).toBe("Love-30");
+});
