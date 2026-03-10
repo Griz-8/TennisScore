@@ -266,17 +266,36 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "1dc69d9dbc616a8205893b1aaacb2baaf58f9081",
     "author": "Grizzz88",
     "commit": {
       "date": "2026-03-10T08:26:00.000Z",
       "message": "Gana 2",
-      "url": "https://github.com/Griz-8/TennisScore/commit/HEAD"
+      "url": "https://github.com/Griz-8/TennisScore/commit/1dc69d9dbc616a8205893b1aaacb2baaf58f9081"
     },
     "stats": {
       "total": 5,
       "additions": 3,
       "deletions": 2,
+      "date": "2026-03-10"
+    },
+    "coverage": 100,
+    "test_count": 15,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Grizzz88",
+    "commit": {
+      "date": "2026-03-10T08:39:44.000Z",
+      "message": "Modificaciones para error Netlify",
+      "url": "https://github.com/Griz-8/TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 0,
+      "deletions": 1,
       "date": "2026-03-10"
     },
     "coverage": 100,
