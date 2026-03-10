@@ -7,3 +7,7 @@ test('empieza el set', () => {
 test('jugador 1 anota', () => {
   expect(marcador(1,0)).toBe('15-Love');
 });
+
+test("jugador 2 anota primero", () => {
+  expect(marcador(0,1)).toBe("Love-15");
+});

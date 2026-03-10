@@ -54,9 +54,47 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "cc9e17c9b50d112a787a6c496ccfc0cf549a4b87",
     "commitName": "feat: mostrar 15-Love cuando jugador 1 anota",
     "commitTimestamp": 1773118074562,
     "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1773118148588,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1773118205414,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1773118258498,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1773118452622,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: mostrar Love-15 cuando jugador 2 anota primero",
+    "commitTimestamp": 1773118490104,
+    "testId": 2
   }
 ]
