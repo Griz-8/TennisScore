@@ -24,18 +24,22 @@ test('jugador 2 llega a 30', () => {
   expect(marcador(1,2)).toBe('15-30');
 });
 
-test("jugador 1 llega a 30 sin que jugador 2 anote", () => {
-  expect(marcador(2,0)).toBe("30-Love");
+test('jugador 1 llega a 30 sin que jugador 2 anote', () => {
+  expect(marcador(2,0)).toBe('30-Love');
 });
 
-test("jugador 2 llega a 30 sin que jugador 1 anote", () => {
-  expect(marcador(0,2)).toBe("Love-30");
+test('jugador 2 llega a 30 sin que jugador 1 anote', () => {
+  expect(marcador(0,2)).toBe('Love-30');
 });
 
-test("Jugador 1 anota, marcador 40-30", () => {
-  expect(marcador(3,2)).toBe("40-30");
+test('Jugador 1 anota, marcador 40-30', () => {
+  expect(marcador(3,2)).toBe('40-30');
 });
 
-test("Jugador 2 anota, marcador 30-40", () => {
-  expect(marcador(2,3)).toBe("30-40");
+test('Jugador 2 anota, marcador 30-40', () => {
+  expect(marcador(2,3)).toBe('30-40');
+});
+
+test('Empate 40-40 → Deuce', () => {
+  expect(marcador(3,3)).toBe('Deuce');
 });

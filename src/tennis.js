@@ -35,6 +35,9 @@ function marcador(p1, p2) {
    if (p1 === 2 && p2 === 3) {
     return '30-40';
   }
+
+  if (p1 === 3 && p2 === 3) {
+    return 'Deuce';}
 }
 
 export default marcador;

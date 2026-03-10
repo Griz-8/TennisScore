@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a1ff4092823338bead6b0220f241c47f9c6e76ab",
     "author": "Grizzz88",
     "commit": {
       "date": "2026-03-10T07:52:39.000Z",
       "message": "jugador 2 anota por 3ra vez",
-      "url": "https://github.com/Griz-8/TennisScore/commit/HEAD"
+      "url": "https://github.com/Griz-8/TennisScore/commit/a1ff4092823338bead6b0220f241c47f9c6e76ab"
     },
     "stats": {
       "total": 8,
@@ -186,6 +186,25 @@
     },
     "coverage": 100,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Grizzz88",
+    "commit": {
+      "date": "2026-03-10T07:56:24.000Z",
+      "message": "Deuce",
+      "url": "https://github.com/Griz-8/TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 23,
+      "additions": 15,
+      "deletions": 8,
+      "date": "2026-03-10"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }
