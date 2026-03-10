@@ -264,9 +264,31 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "47c64429af5a4fcafab73fb103b53c1725606010",
     "commitName": "jugador 1 anota por 3ra vez",
     "commitTimestamp": 1773129041873,
     "testId": 8
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 1,
+    "numTotalTests": 10,
+    "timestamp": 1773129091900,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1773129138251,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "jugador 2 anota por 3ra vez",
+    "commitTimestamp": 1773129160693,
+    "testId": 9
   }
 ]
