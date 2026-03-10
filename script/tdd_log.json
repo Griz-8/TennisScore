@@ -166,9 +166,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f2acc5de9e62afc2cc11c2d1fc898bf2105294a7",
     "commitName": "feat: mostrar 15-30 cuando jugador 2 llega a 30",
     "commitTimestamp": 1773120134714,
     "testId": 5
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1773120428290,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1773120436923,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "jugador 1 anota por segunda vez sin que anote jugador 2",
+    "commitTimestamp": 1773120504687,
+    "testId": 6
   }
 ]

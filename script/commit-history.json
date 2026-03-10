@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f2acc5de9e62afc2cc11c2d1fc898bf2105294a7",
     "author": "Grizzz88",
     "commit": {
       "date": "2026-03-10T05:22:13.000Z",
       "message": "feat: mostrar 15-30 cuando jugador 2 llega a 30",
-      "url": "https://github.com/Griz-8/TennisScore/commit/HEAD"
+      "url": "https://github.com/Griz-8/TennisScore/commit/f2acc5de9e62afc2cc11c2d1fc898bf2105294a7"
     },
     "stats": {
       "total": 13,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Grizzz88",
+    "commit": {
+      "date": "2026-03-10T05:28:23.000Z",
+      "message": "jugador 1 anota por segunda vez sin que anote jugador 2",
+      "url": "https://github.com/Griz-8/TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2026-03-10"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
